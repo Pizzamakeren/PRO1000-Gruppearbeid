@@ -4,8 +4,8 @@ header{
     height: 17vh;
     background-color: #7800F0;
     position: relative;
-	top: 0vh;
-	left: 0px;
+	top: -1.4vh;
+	left: -0.7vw;
 	
 }
 
@@ -43,4 +43,15 @@ left: 2%;
 top: 5%;
 }
 
+@media (max-width: 600px) {
+	
+	
+.videohjem {
+	display: none;
+}
 
+-.navigering {
+	display: none;
+}
+
+}
