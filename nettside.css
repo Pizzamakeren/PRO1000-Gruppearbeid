@@ -3,7 +3,7 @@ header{
     width: 100vw;
     height: 17vh;
     background-color: #7800F0;
-    position: relative;
+    position: absolute;
 	top: -1.4vh;
 	left: -0.7vw;
 	
