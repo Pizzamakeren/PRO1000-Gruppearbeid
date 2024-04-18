@@ -47,7 +47,7 @@ top: 5%;
 @media only screen and (max-width: 1220px) {
 
 	header{
-    width: 1206px;
+    width: 1220px;
     height: 120px;
     background-color: #7800F0;
     position: absolute;
@@ -57,7 +57,7 @@ top: 5%;
 
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 601px) {
 	
 	
 header{
@@ -65,7 +65,7 @@ header{
     height: 120px;
     background-color: #7800F0;
     position: absolute;
-	bottom: 354px;
+	bottom: 442px;
 	left: 0px;
 }
 
@@ -79,20 +79,51 @@ header{
 .logo {
 position: absolute;
 top: 15px;
+left: 130px;
 }
 	
 .logotittel {
 	position: absolute;
-	bottom: 265px;
+	top: 580px;
+	left: 130px;
 	
 }
 
-.hjemoverskrift {
+.hjeminformasjonoverskrift {
 	position: absolute;
-	top: 700px;
-	font-size: 20px;
-	left: 20px;
+	top: 600px;
+	font-size: 10px;
+	left: 60px;
 	
+}
+
+.informasjon1 {
+	position: absolute;
+	bottom: -200px;
+	font-size: 20px;
+	left: 300px;
+
+}
+
+.informasjon2 {
+	position: absolute;
+	bottom: -350px;
+	font-size: 20px;
+	left: 300px;
+}
+
+.informasjon3 {
+	position: absolute;
+	bottom: -350px;
+	font-size: 20px;
+	left: 300px;
+}
+
+.informasjon4 {
+	position: absolute;
+	bottom: -350px;
+	font-size: 20px;
+	left: 300px;
 }
 
 .videohjem {
@@ -100,4 +131,3 @@ top: 15px;
 }
 
 }
-
