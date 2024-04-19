@@ -105,7 +105,7 @@ display: none;
 
 .hjemoverskrift1 {
 	font-familiy: times new roman, times, serif; 
-	font-size: 28px; 
+	font-size: 24px; 
 	position: absolute; 
 	top: 170px; 
 	left: 50px;
@@ -113,7 +113,7 @@ display: none;
 
 .hjemoverskrift2 {
 	font-familiy: times new roman, times, serif; 
-	font-size: 28px; 
+	font-size: 24px; 
 	position: absolute; 
 	top: 200px; 
 	left: 70px;
@@ -126,7 +126,7 @@ display: none;
 	left: 17px;
 	top: 270px; 
 	font-family: times new roman, times, serif; 
-	font-size: 15px;
+	font-size: 14px;
 }
 
 .hjeminnhold2 {
@@ -134,7 +134,7 @@ display: none;
 	left: 8px;
 	top: 290px; 
 	font-family: times new roman, times, serif; 
-	font-size: 15px;
+	font-size: 14px;
 }
 
 .hjeminnhold3 {
@@ -142,7 +142,7 @@ display: none;
 	left: 81px;
 	top: 310px; 
 	font-family: times new roman, times, serif; 
-	font-size: 15px;
+	font-size: 14px;
 }
 
 
@@ -151,7 +151,7 @@ position: absolute;
 left: 15px; 
 top: 350px; 
 font-family: times new roman, times, serif; 
-font-size: 15px
+font-size: 14px
 }
 
 .hjeminnhold5 {
@@ -159,7 +159,7 @@ position: absolute;
 left: 15px; 
 top: 370px; 
 font-family: times new roman, times, serif; 
-font-size: 15px
+font-size: 14px
 }
 
 .hjeminnhold6 {
@@ -167,7 +167,7 @@ position: absolute;
 left: 38px; 
 top: 390px; 
 font-family: times new roman, times, serif; 
-font-size: 15px
+font-size: 14px
 }
 
 .hjeminnhold7 {
@@ -175,7 +175,7 @@ position: absolute;
 left: 15px; 
 top: 430px; 
 font-family: times new roman, times, serif; 
-font-size: 15px
+font-size: 14px
 }
 
 .hjeminnhold8 {
@@ -183,7 +183,7 @@ position: absolute;
 left: 40px; 
 top: 450px; 
 font-family: times new roman, times, serif; 
-font-size: 15px
+font-size: 14px
 }
 
 .hjeminnhold9 {
@@ -191,7 +191,7 @@ position: absolute;
 left: 110px; 
 top: 500px; 
 font-family: times new roman, times, serif; 
-font-size: 15px
+font-size: 14px
 }
 
 
