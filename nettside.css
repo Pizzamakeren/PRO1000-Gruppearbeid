@@ -78,7 +78,7 @@ display: none;
 	white;
 	position: absolute;
 	top: -22px; 
-	left: 48px;
+	left: 41px;
 }
 
 
@@ -88,7 +88,7 @@ display: none;
 	color: white;
 	position: absolute;
 	top: -22px; 
-	left: 112px;
+	left: 109px;
 }
 
 
@@ -108,7 +108,7 @@ display: none;
 	font-size: 28px; 
 	position: absolute; 
 	top: 170px; 
-	left: 50px;
+	left: 60px;
 }
 
 .hjemoverskrift2 {
@@ -116,14 +116,14 @@ display: none;
 	font-size: 28px; 
 	position: absolute; 
 	top: 200px; 
-	left: 35px;
+	left: 45px;
 }
 
 
 
 .hjeminnhold1 {
 	position: absolute;
-	left: 17px;
+	left: 20px;
 	top: 270px; 
 	font-family: times new roman, times, serif; 
 	font-size: 14px;
@@ -131,7 +131,7 @@ display: none;
 
 .hjeminnhold2mobil {
 	position: absolute;
-	left: 35px;
+	left: 38px;
 	top: 290px; 
 	font-family: times new roman, times, serif; 
 	font-size: 14px;
@@ -165,7 +165,7 @@ font-size: 14px
 
 .hjeminnhold6mobil {
 position: absolute; 
-left: 80px; 
+left: 82px; 
 top: 390px; 
 font-family: times new roman, times, serif; 
 font-size: 14px
