@@ -1,0 +1,456 @@
+@media only screen and (max-width: 768px) {
+
+header{
+    width: 100%;
+    height: 175px;
+    background-color: #7800F0;
+    position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+
+
+
+nav a{
+    text-decoration: none;
+    font-family: times new roman, times, serif;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+    color: aliceblue;
+	position: absolute;
+	
+	
+}
+nav a:hover{
+    background-color: #7800F0;
+	
+	position: absolute;
+    color: black;
+}
+
+.navigering1 a {
+display: none;
+}
+
+.navigering2 a {
+	left: 70px;
+	top: 60px;
+}
+
+.navigering3 a {
+	left: 200px;
+	top: 60px;
+}
+
+.navigering4 a {
+	left: 65px;
+	top: 100px;
+}
+
+.navigering5 a {
+	left: 210px;
+	top: 100px;
+}
+
+.navigering6 a {
+	left: 70px;
+	top: 140px;
+}
+
+.navigering7 a {
+	left: 220px;
+	top:140px;
+}
+
+
+
+
+
+
+
+
+
+.logotittel0 {
+	font-family: times new roman, times, serif ;
+	font-size: 28px;
+	color: white;
+	white;
+	position: absolute;
+	top: -22px; 
+	left: 48px;
+}
+
+
+.logotittel1 {
+	font-family: times new roman, times, serif;
+	font-size: 28px;
+	color: white;
+	position: absolute;
+	top: -22px; 
+	left: 112px;
+}
+
+
+.logotittel2 {
+	font-family: times new roman, times, serif; 
+	font-size: 28px; 
+	color: white; 
+	position: absolute;
+	top: -20px;
+	left: 247px;
+}
+
+
+
+.hjemoverskrift1 {
+	font-familiy: times new roman, times, serif; 
+	font-size: 28px; 
+	position: absolute; 
+	top: 170px; 
+	left: 50px;
+}
+
+.hjemoverskrift2 {
+	font-familiy: times new roman, times, serif; 
+	font-size: 28px; 
+	position: absolute; 
+	top: 200px; 
+	left: 35px;
+}
+
+
+
+.hjeminnhold1 {
+	position: absolute;
+	left: 17px;
+	top: 270px; 
+	font-family: times new roman, times, serif; 
+	font-size: 14px;
+}
+
+.hjeminnhold2mobil {
+	position: absolute;
+	left: 35px;
+	top: 290px; 
+	font-family: times new roman, times, serif; 
+	font-size: 14px;
+}
+
+.hjeminnhold3mobil {
+	position: absolute;
+	left: 85px;
+	top: 310px; 
+	font-family: times new roman, times, serif; 
+	font-size: 14px;
+}
+
+
+
+.hjeminnhold4mobil{
+position: absolute; 
+left: 25px; 
+top: 350px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+
+.hjeminnhold5mobil {
+position: absolute; 
+left: 32px; 
+top: 370px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+
+.hjeminnhold6mobil {
+position: absolute; 
+left: 80px; 
+top: 390px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+
+.hjeminnhold7mobil {
+position: absolute; 
+left: 65px; 
+top: 430px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+
+.hjeminnhold7 {
+	display: none;
+}
+
+.hjeminnhold8mobil {
+position: absolute; 
+left: 70px; 
+top: 450px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+
+.hjeminnhold8mobilextended {
+	position: absolute; 
+left: 100px; 
+top: 470px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+.hjeminnhold8 {
+	display: none;
+}
+.hjeminnhold9 {
+position: absolute; 
+left: 105px; 
+top: 500px; 
+font-family: times new roman, times, serif; 
+font-size: 15px
+}
+
+.hjeminnhold6 {
+	display: none;
+}
+
+.hjeminnhold5 {
+	display: none;
+}
+.videohjem {
+	
+	display: none;
+}
+
+
+}
+
+@media only screen and (min-width: 768px) {
+	
+	
+	
+header{
+    width: 100%;
+    height: 107px;
+    background-color: #7800F0;
+    position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+nav a{
+    text-decoration: none;
+    font-family: times new roman, times, serif;
+    letter-spacing: 0.5px;
+    font-size: 25px;
+    color: aliceblue;
+	position: absolute;
+	
+	
+}
+nav a:hover{
+    background-color: #7800F0;
+	
+	position: absolute;
+    color: black;
+}
+
+.navigering1 a {
+left: 230px;
+top: 43px;
+display: block;
+}
+
+.navigering2 a {
+	left: 320px;
+	top: 43px;
+}
+
+.navigering3 a {
+	left: 450px;
+	top: 43px;
+}
+
+.navigering4 a {
+	left: 615px;
+	top: 43px;
+}
+
+.navigering5 a {
+	left: 760px;
+	top: 43px;
+}
+
+.navigering6 a {
+	left: 900px;
+	top: 43px;
+}
+
+.navigering7 a {
+	left: 1025px;
+	top:43px;
+}
+
+
+.logotittel0 {
+	font-family: brush script MT;
+	font-size: 45px;
+	color: white;
+	white;
+	position: absolute;
+	top: -47px; 
+	left: 60px;
+}
+
+
+.logotittel1 {
+	font-family: brush script MT;
+	font-size: 40px;
+	color: white;
+	position: absolute;
+	top: -11px; 
+	left: 30px;
+}
+
+
+.logotittel2 {
+	font-family: brush script MT; 
+	font-size: 40px; 
+	color: white; 
+	position: absolute;
+	top: 18px;
+	left: 58px;
+}
+
+	
+	
+.hjemoverskrift1 {
+	font-familiy: times new roman, times, serif; 
+	font-size: 30px; 
+	position: absolute; 
+	top: 149px; 
+	left: 60px;
+}
+
+.hjemoverskrift2 {
+	font-familiy: times new roman, times, serif; 
+	font-size: 30px; 
+	position: absolute; 
+	top: 149px; 
+	left: 370px;
+}
+	
+.hjeminnhold1 {
+	position: absolute;
+	left: 140px;
+	top: 220px; 
+	font-family: times new roman, times, serif; 
+	font-size: 17px;
+}
+
+
+.hjeminnhold2 {
+position: absolute; 
+left: 130px; 
+top: 244px; 
+font-family: times new roman, times, serif; 
+font-size: 17px;
+}
+
+.hjeminnhold3 {
+	position: absolute; 
+	left: 210px; 
+	top: 268px; 
+	font-family: times new roman, times, serif; 
+	font-size: 17px;
+}
+
+
+.hjeminnhold4 {
+	position: absolute;
+	left:140px; 
+	top: 304px; 
+	color: black; 
+	font-size: 17px;
+}
+
+.hjeminnhold5 {
+	position: absolute;
+	left:145px; 
+	top: 328px; 
+	color: black; 
+	font-size: 17px;
+}
+
+.hjeminnhold6 {
+	position: absolute;
+	left:175px; 
+	top: 351px; 
+	color: black; 
+	font-size: 17px;
+}
+
+.hjeminnhold7 {
+	position: absolute;
+	left:140px; 
+	top: 390px; 
+	color: black; 
+	font-size: 17px;
+}
+
+.hjeminnhold8 {
+	position: absolute;
+	left:175px; 
+	top: 415px; 
+	color: black; 
+	font-size: 17px;
+}
+
+.hjeminnhold9 {
+	position: absolute;
+	left:225px; 
+	top: 450px; 
+	color: black; 
+	font-size: 17px;
+}
+
+
+	
+	.videohjem {
+	position: absolute;
+	left: 700px;
+	top: 177px;
+	display: block;
+	}
+	
+	
+	
+	.hjeminnhold2mobil {
+		display: none;
+	}
+	
+	.hjeminnhold3mobil {
+		display: none;
+	}
+	
+	.hjeminnhold4mobil {
+		display: none;
+	}
+	
+	.hjeminnhold5mobil  {
+		display: none;
+	}
+	
+	.hjeminnhold6mobil  {
+		display: none;
+	}
+	
+	.hjeminnhold7mobil  {
+		display: none;
+	}
+	   
+	
+	
+	.hjeminnhold8mobilextended  {
+		display: none;
+	}
+}
