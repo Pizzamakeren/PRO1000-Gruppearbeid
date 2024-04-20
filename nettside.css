@@ -70,7 +70,7 @@ display: none;
 	color: white;
 	white;
 	position: absolute;
-	top: -22px; 
+	top: -17px; 
 	left: 35px;
 }
 
@@ -80,17 +80,17 @@ display: none;
 	font-size: 25px;
 	color: white;
 	position: absolute;
-	top: -22px; 
+	top: -17px; 
 	left: 108px;
 }
 
 
 .logotittel2 {
 	font-family: times new roman, times, serif; 
-	font-size: 28px; 
+	font-size: 25px; 
 	color: white; 
 	position: absolute;
-	top: -20px;
+	top: -15px;
 	left: 255px;
 }
 
@@ -106,7 +106,7 @@ display: none;
 
 .hjemoverskrift2 {
 	font-familiy: times new roman, times, serif; 
-	font-size: 28px; 
+	font-size: 25px; 
 	position: absolute; 
 	top: 200px; 
 	left: 42px;
