@@ -289,6 +289,13 @@ left: 135px;
  color: black; 
 }
 
+.brukernavninputdesktop {
+	display: none;
+}
+
+.passordinputdesktop {
+	display: none;
+}
 
 
 
