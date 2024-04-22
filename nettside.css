@@ -1,0 +1,1850 @@
+@media only screen and (max-width: 768px) {
+
+
+header{
+    width: 100%;
+    height: 150px;
+    background-color: #7800F0;
+    position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+
+
+
+nav a{
+    text-decoration: none;
+    font-family: times new roman, times, serif;
+    letter-spacing: 0.5px;
+    font-size: 18px;
+    color: aliceblue;
+	position: absolute;
+	
+	
+}
+nav a:hover{
+    background-color: #7800F0;
+	
+	position: absolute;
+    color: black;
+}
+
+.navigering1 a {
+display: none;
+}
+
+.navigering2 a {
+	left: 28px;
+	top: 60px;
+}
+
+.navigering3 a {
+	left: 123px;
+	top: 60px;
+}
+
+.navigering4 a {
+	left: 45px;
+	top: 110px;
+}
+
+.navigering5 a {
+	left: 248px;
+	top: 60px;
+}
+
+.navigering6 a {
+	left: 150px;
+	top: 110px;
+}
+
+.navigering7 a {
+	left: 240px;
+	top:110px;
+}
+
+.logotittel0 {
+	font-family: times new roman, times, serif ;
+	font-size: 25px;
+	color: white;
+	white;
+	position: absolute;
+	top: -22px; 
+	left: 35px;
+}
+
+
+.logotittel1 {
+	font-family: times new roman, times, serif;
+	font-size: 25px;
+	color: white;
+	position: absolute;
+	top: -22px; 
+	left: 108px;
+}
+
+
+.logotittel2 {
+	font-family: times new roman, times, serif; 
+	font-size: 25px; 
+	color: white; 
+	position: absolute;
+	top: -20px;
+	left: 255px;
+}
+
+
+
+.hjemoverskrift1 {
+	font-familiy: times new roman, times, serif; 
+	font-size: 28px; 
+	position: absolute; 
+	top: 170px; 
+	left: 60px;
+}
+
+.hjemoverskrift2 {
+	font-familiy: times new roman, times, serif; 
+	font-size: 28px; 
+	position: absolute; 
+	top: 200px; 
+	left: 42px;
+}
+
+
+
+.hjeminnhold1 {
+	position: absolute;
+	left: 32px;
+	top: 270px; 
+	font-family: times new roman, times, serif; 
+	font-size: 14px;
+}
+
+.hjeminnhold2mobil {
+	position: absolute;
+	left: 45px;
+	top: 290px; 
+	font-family: times new roman, times, serif; 
+	font-size: 14px;
+}
+
+.hjeminnhold3mobil {
+	position: absolute;
+	left: 85px;
+	top: 310px; 
+	font-family: times new roman, times, serif; 
+	font-size: 14px;
+}
+
+
+
+.hjeminnhold4mobil{
+position: absolute; 
+left: 40px; 
+top: 350px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+
+.hjeminnhold5mobil {
+position: absolute; 
+left: 45px; 
+top: 370px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+
+.hjeminnhold6mobil {
+position: absolute; 
+left: 87px; 
+top: 390px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+
+.hjeminnhold7mobil {
+position: absolute; 
+left: 75px; 
+top: 430px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+
+.hjeminnhold7 {
+	display: none;
+}
+
+.hjeminnhold8mobil {
+position: absolute; 
+left: 78px; 
+top: 450px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+
+.hjeminnhold8mobilextended {
+	position: absolute; 
+left: 106px; 
+top: 470px; 
+font-family: times new roman, times, serif; 
+font-size: 14px
+}
+.hjeminnhold8 {
+	display: none;
+}
+.hjeminnhold9 {
+position: absolute; 
+left: 105px; 
+top: 500px; 
+font-family: times new roman, times, serif; 
+font-size: 15px
+}
+
+.hjeminnhold6 {
+	display: none;
+}
+
+.hjeminnhold5 {
+	display: none;
+}
+.videohjem {
+	
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.logginntekst {
+	font-familiy: times new roman, times, serif;
+	font-size: 30px; 
+	position: absolute;
+	bottom: 450px;
+	left: 109px;
+}
+
+.brukernavntekst {
+	font-familiy: times new roman, times, serif;
+	font-size: 20px; 
+	position: absolute;
+	bottom: 420px;
+	left: 109px;
+}
+
+.passordtekst {
+	font-familiy: times new roman, times, serif; 
+	font-size: 20px; 
+	position: absolute; 
+	bottom: 335px;
+	left: 109px;
+}
+	
+
+.brukernavninputmobil {
+	font-familiy: times new roman, times, serif;
+	font-size: 20px;
+	position: absolute;
+	bottom: 405px;
+	left: 109px;
+	
+}
+
+.passordinputmobil {
+	position: absolute; 
+	left: 109px;
+	top: 372px
+}
+	
+.logginnknapp {
+	
+position: absolute;
+ top: 420px; 
+ left: 144px; 
+ font-size:17px; 
+ background color: grey; 
+ width: 75px
+}
+	
+.brukernavnellerpassordlenke {
+position: absolute;
+ left: 74px;
+ top: 470px;
+ color: black;
+}
+
+.registrerdeglenke {
+position: absolute; 
+left: 135px;
+ top: 500px; 
+ color: black; 
+}
+
+.brukernavninputdesktop {
+	display: none;
+}
+
+.passordinputdesktop {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.medlemtekst {
+font-family: times new roman, times, serif; 
+font-size: 25px; 
+position: absolute;
+ bottom: 700px;
+ left: 43px;
+}
+
+
+
+
+.firkant1 {
+	position: absolute;
+	left: 20px; 
+	top: 240px; 
+	width: 160px; 
+	height: 260px; 
+	background-color: white; 
+	border: 4px solid black;
+}
+
+
+.firkant1setning1 {
+	font-family: times new roman, times serif; 
+	font-size: 25px;
+	position: absolute; 
+	left: 35px; 
+	bottom: 200px;
+}
+
+.firkant1setning2 {
+font-family: times new roman, times, serif;
+ font-size: 25px; 
+ position: absolute; 
+ left: 55px; 
+ bottom: 175px;"
+}
+
+.firkant1setning3 {
+	font-family: times new roman, times, serif;
+	font-size: 22px; 
+	position: absolute; 
+	left: 50px; 
+	bottom: 130px;
+}
+
+.firkant1setning4 {
+	font-family: times new roman, times, serif; 
+	font-size: 17px; 
+	position: absolute;
+	left: 3px; 
+	bottom: 0px;
+}
+
+
+
+
+
+
+.firkant2 {
+position: absolute;
+ left: 195px;
+ top: 240px;
+ width: 160px;
+ height: 260px; 
+ background-color: white; 
+ border: 4px solid black;
+}
+
+.firkant2setning1 {
+	font-family: times new roman, times, serif;
+	font-size: 25px; 
+	position: absolute; 
+	left: 14px; 
+	bottom: 200px;
+}
+.firkant2setning2 {
+	font-family: times new roman, times, serif; 
+	font-size: 25px;
+	position: absolute; 
+	left: 46px; 
+	bottom: 175px;
+}
+.firkant2setning3 {
+	font-family: times new roman, times, serif;
+	font-size: 22px;
+	position: absolute; 
+	left: 40px;
+	bottom: 130px;
+}
+.firkant2setning4 {
+font-family: times new roman, times, serif; 
+font-size: 17px;
+ position: absolute;
+ left: 3px;
+ bottom: 0px;
+}
+
+
+.firkant3 {
+position: absolute;
+ left: 20px; 
+ top: 515px;
+ width: 160px;
+ height: 260px; 
+ background-color: white; 
+ border: 4px solid black;"
+}
+
+.firkant3setning1 {
+	font-family: times new roman, times, serif; 
+	font-size: 25px;
+	position: absolute; 
+	left: 22px; 
+	bottom: 200px;
+}
+
+.firkant3setning2 {
+font-family: times new roman, times, serif; 
+font-size: 25px;
+ position: absolute;
+ left: 50px; 
+ bottom: 170px;
+
+
+}
+
+.firkant3setning3 {
+font-family: times new roman, times, serif; 
+font-size: 21px;
+ position: absolute; 
+ left: -10px; 
+ top: 50px;
+}
+
+.firkant3setning4{
+ font-family: times new roman, times, serif;
+ font-size: 17px;
+ position: absolute;
+ left: -37px;
+ bottom: 30px;
+}
+
+
+
+.firkant3setning4desktop {
+display: none;
+}
+
+.firkant3setning44desktop {
+	display: none;
+}
+
+
+
+.tilbyr {
+font-family: times new roman, times, serif;
+ font-size: 17px;
+ position: absolute;
+ left: 60px;
+ bottom: 90px;
+}
+
+.semester {
+font-family: times new roman, times, serif;
+ font-size: 17px;
+ position: absolute;
+ left: -36px;
+ bottom: 15px;
+}
+
+.hr3 {
+	margin-top: -25px;
+	margin-left: -40px;
+	width: 159px;
+}
+	
+.firkant4 {
+	position: absolute;
+	left: 35px;
+	top: 260px; 
+	width: 160px; 
+	height: 260px;
+	background-color: white;
+	border: 4px solid black
+}
+
+.firkant4setning1 {
+	font-family: times new roman, times, serif;
+	font-size: 25px; 
+	position: absolute;
+	left: 45px; 
+	bottom: 200px;"
+}
+
+
+.firkant4setning2 {
+	font-family: times new roman, times, serif; 
+	font-size: 25px;
+	position: absolute; 
+	left: 5px;
+	bottom: 175px;
+}
+
+.firkant4setning3 {
+	"font-family: times new roman, times, serif; 
+	font-size: 22px;
+	position: absolute; 
+	left: 40px;
+	bottom: 130px;"
+}
+
+.firkant4setning4 {
+	font-family: times new roman, times, serif;
+	font-size: 17px; 
+	position: absolute;
+	left: 3px; 
+    top: 120px;"
+}
+
+.hr4 {
+	margin-top: -84px;
+}
+
+
+.firkant5 {
+	position: absolute;
+	left: 123px; 
+	top: -15px; 
+	width: 160px; 
+	height: 260px; 
+	background-color: white; 
+	border: 4px solid black; 
+}
+
+.firkant5setning1 {
+	font-family: times new roman, times, serif; 
+	font-size: 25px; 
+	position: absolute; 
+	left: 40px;
+	bottom: 200px;"
+}
+
+.firkant5setning2 {
+	font-family: times new roman, times, serif;
+	font-size: 25px;
+	position: absolute;
+	left: 30px; 
+	bottom: 175px;"
+}
+
+.firkant5setning3 {
+	font-family: times new roman, times, serif; 
+	font-size: 22px; 
+	position: absolute;
+	left: 35px;
+	bottom: 137px;"
+}
+
+.firkant5setning4 {
+    font-family: italic;
+	font-size: 17px; 
+	position: absolute; 
+	left: 3px; 
+	bottom: 0px;
+}
+
+.hr5 {
+padding-top: 103px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lokaletsleietakeremobil1 {
+	font-family: times new roman, times, serif; 
+	font-size: 30px;
+	position: absolute; 
+	top: 140px;
+	left: 120px;
+}
+
+.lokaletsleietakeremobil2 {
+font-family: times new roman, times, serif; 
+	font-size: 30px;
+	position: absolute; 
+	top: 175px;
+	left: 105px;
+}
+
+
+.bilde1mobil {
+	position: absolute;
+	left: 10px; 
+	top: 530px;
+
+	
+}
+
+.bilde2mobil {
+	position: absolute;
+	left: 190px;
+	top: 250px;
+	
+}
+
+.bilde3mobil {
+position: absolute; 
+left: 10px; 
+top: 250px;
+}
+
+.bilde4mobil {
+position: absolute;
+ left: 190px; 
+ top: 530px;
+}
+
+.bilde1desktop {
+	display: none;
+}
+
+.bilde2desktop {
+display: none;	
+}
+
+.bilde3desktop {
+display: none;	
+}
+
+.bilde4desktop {
+display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.kontaktskjema {
+position: absolute;
+left: -160px;
+top: 600px;
+}
+
+
+
+.form1desktop {
+	display: none;
+}
+
+.form2desktop {
+	display: none;
+}
+
+.textareadesktop { 
+display: none;
+}
+
+.navndesktop {
+display: none;
+}
+
+.epostdesktop {
+	display: none;
+}
+
+.meldingdesktop {
+display: none;
+}
+
+
+.kontakt1desktop {
+display: none;
+}
+
+.kontakt2desktop {
+display: none;
+}
+
+.kontakt3desktop {
+display: none;
+}
+
+.USNCoworkingSpacegmail.comdesktop {
+	display: none;
+}
+
+
+.eposttdesktop {
+	display: none;
+}
+.kontakt5desktop {
+display: none;
+}
+
+.kontakt6desktop {
+display: none;	
+}
+
+.kontakt7desktop {
+display: none;
+}
+
+.buttondesktop {
+	display: none;
+}
+
+
+.USNCoworkingSpacegmailcomdesktop {
+display: none;
+}
+
+.kontakt3desktop {
+display: none;
+}
+
+.kontakt66desktop {
+display: none;
+}
+
+
+.booking {
+position: absolute;
+left: -150px;
+top: 600px;	
+}
+
+.form1bookingdesktop{
+display: none;
+}
+
+.select1desktop {
+display: none;
+}
+
+.datovalgdesktop {
+display: none;
+}
+
+.tidsvalgdesktop {
+display: none;
+}
+
+.sluttdatodesktop {
+	display: none;
+}
+
+.slutttiddesktop {
+display: none;
+}
+
+.bookingansvarligdesktop {
+display: none;
+}
+
+.bookingtelefondesktop {
+display: none;
+}
+
+.bookingtitteldesktop {
+display: none;
+}
+
+.velgromdesktop {
+display: none;
+}
+
+.startdatodesktop {
+display: none;
+}
+
+.starttiddesktop {
+display: none;
+}
+
+.sluttdatodesktop {
+display: none;
+}
+
+.slutttiddesktop {
+display: none;
+}
+
+.telefondesktop {
+display: none;
+}
+
+.navndesktop {
+display: none;
+}
+
+.knappbookingdesktop {
+display: none;
+}
+
+.kartdesktop {
+display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.openworkspacedesktop {
+display: none;
+}
+
+.kontorlandskapdesktop {
+display: none;
+}
+
+.privateofficedesktop {
+display: none;
+}
+
+.privatkontordesktop {
+display: none;
+}
+
+.loungedesktop {
+display: none;
+}
+
+.kontorloungedesktop {
+display: none;
+}
+
+.kitchendesktop {
+display: none;
+}
+
+.kjøkkendesktop {
+display: none;
+}
+
+.scandesktop {
+display: none;	
+}
+
+.scanogprintdesktop {
+display: none;
+}
+
+.gameroomdesktop {
+display: none;
+}
+
+.gameroom2desktop {
+display: none;
+}
+
+}
+
+@media only screen and (min-width: 768px) {
+	
+	
+	
+header{
+    width: 100%;
+    height: 107px;
+    background-color: #7800F0;
+    position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+nav a{
+    text-decoration: none;
+    font-family: times new roman, times, serif;
+    letter-spacing: 0.5px;
+    font-size: 25px;
+    color: aliceblue;
+	position: absolute;
+	
+	
+}
+nav a:hover{
+    background-color: #7800F0;
+	
+	position: absolute;
+    color: black;
+}
+
+.navigering1 a {
+left: 230px;
+top: 43px;
+display: block;
+}
+
+.navigering2 a {
+	left: 320px;
+	top: 43px;
+}
+
+.navigering3 a {
+	left: 450px;
+	top: 43px;
+}
+
+.navigering4 a {
+	left: 615px;
+	top: 43px;
+}
+
+.navigering5 a {
+	left: 760px;
+	top: 43px;
+}
+
+.navigering6 a {
+	left: 900px;
+	top: 43px;
+}
+
+.navigering7 a {
+	left: 1025px;
+	top:43px;
+}
+
+
+.logotittel0 {
+	font-family: brush script MT;
+	font-size: 45px;
+	color: white;
+	white;
+	position: absolute;
+	top: -47px; 
+	left: 60px;
+}
+
+
+.logotittel1 {
+	font-family: brush script MT;
+	font-size: 40px;
+	color: white;
+	position: absolute;
+	top: -11px; 
+	left: 30px;
+}
+
+
+.logotittel2 {
+	font-family: brush script MT; 
+	font-size: 40px; 
+	color: white; 
+	position: absolute;
+	top: 18px;
+	left: 58px;
+}
+
+	
+	
+.hjemoverskrift1 {
+	font-familiy: times new roman, times, serif; 
+	font-size: 30px; 
+	position: absolute; 
+	top: 149px; 
+	left: 60px;
+}
+
+.hjemoverskrift2 {
+	font-familiy: times new roman, times, serif; 
+	font-size: 30px; 
+	position: absolute; 
+	top: 149px; 
+	left: 330px;
+}
+	
+.hjeminnhold1 {
+	position: absolute;
+	left: 140px;
+	top: 220px; 
+	font-family: times new roman, times, serif; 
+	font-size: 19px;
+}
+
+
+.hjeminnhold2 {
+position: absolute; 
+left: 130px; 
+top: 244px; 
+font-family: times new roman, times, serif; 
+font-size: 19px;
+}
+
+.hjeminnhold3 {
+	position: absolute; 
+	left: 210px; 
+	top: 268px; 
+	font-size: 19px;
+}
+
+
+.hjeminnhold4 {
+	position: absolute;
+	left:140px; 
+	top: 304px; 
+	color: black; 
+	font-size: 19px;
+}
+
+.hjeminnhold5 {
+	position: absolute;
+	left:145px; 
+	top: 328px; 
+	color: black; 
+	font-size: 19px;
+}
+
+.hjeminnhold6 {
+	position: absolute;
+	left:175px; 
+	top: 351px; 
+	color: black; 
+	font-size: 19px;
+}
+
+.hjeminnhold7 {
+	position: absolute;
+	left:140px; 
+	top: 390px; 
+	color: black; 
+	font-size: 19px;
+}
+
+.hjeminnhold8 {
+	position: absolute;
+	left:175px; 
+	top: 415px; 
+	color: black; 
+	font-size: 19px;
+}
+
+.hjeminnhold9 {
+	position: absolute;
+	left:225px; 
+	top: 450px; 
+	color: black; 
+	font-size: 19px;
+}
+
+	.videohjem {
+	position: absolute;
+	left: 700px;
+	top: 177px;
+	display: block;
+	}
+	
+	
+	
+	.hjeminnhold2mobil {
+		display: none;
+	}
+	
+	.hjeminnhold3mobil {
+		display: none;
+	}
+	
+	.hjeminnhold4mobil {
+		display: none;
+	}
+	
+	.hjeminnhold5mobil  {
+		display: none;
+	}
+	
+	.hjeminnhold6mobil  {
+		display: none;
+	}
+	
+	.hjeminnhold7mobil  {
+		display: none;
+	}
+	   
+	
+	
+	.hjeminnhold8mobilextended  {
+		display: none;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.logginntekst {
+	font-familiy: times new roman, times, serif;
+	font-size: 30px; 
+	position: absolute;
+	bottom: 324px;
+	left: 550px;
+}
+
+.brukernavntekst {
+	font-familiy: times new roman, times, serif;
+	font-size: 20px; 
+	position: absolute;
+	bottom: 290px;
+	left: 517px;
+}
+
+.passordtekst {
+	font-familiy: times new roman, times, serif; 
+	font-size: 20px; 
+	position: absolute; 
+	bottom: 220px;
+	left: 517px;
+}
+	
+
+.brukernavninputdesktop {
+	font-familiy: times new roman, times, serif;
+	font-size: 20px;
+	position: absolute;
+	bottom: 278px;
+	left: 517px;
+	
+}
+
+.passordinputdesktop {
+	position: absolute; 
+	left: 517px;
+	top: 330px
+}
+	
+.logginnknapp {
+	
+position: absolute;
+ top: 375px; 
+ left: 580px; 
+ font-size:17px; 
+ background color: grey; 
+ width: 75px
+}
+	
+.brukernavnellerpassordlenke {
+position: absolute;
+ left: 515px;
+ top: 420px;
+ color: black;
+}
+
+.registrerdeglenke {
+position: absolute; 
+left: 575px;
+ top: 450px; 
+ color: black; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.medlemtekst {
+font-family: times new roman, times, serif; 
+font-size: 25px; 
+position: absolute;
+ bottom: 320px;
+ left: 420px;
+}
+
+
+
+
+.firkant1 {
+position: absolute; 
+left: 80px; 
+top: 190px; 
+width: 170px; 
+height: 270px; 
+background-color: white;
+border: 4px solid black;	
+
+}
+
+.firkant1setning1 {
+	font-family: times new roman, times, serif ; 
+	font-size: 24px;
+	position: absolute; 
+	left: 35px; 
+	bottom: 210px;
+}
+
+.firkant1setning2 {
+	font-family: times new roman, times, serif ; 
+	font-size: 24px;
+	position: absolute; 
+	left: 52px; 
+	bottom: 185px;
+}
+
+.firkant1setning3 {
+	font-family: times new roman, times, serif ; 
+	font-size: 21px;
+	position: absolute; 
+	left: 52px; 
+	bottom: 140px;
+}
+
+.firkant1setning4 {
+	font-family: times new roman, times, serif ; 
+	font-size: 16px;
+	position: absolute; 
+	left: 0px; 
+	bottom: 30px;
+}
+
+.hr1 {
+margin-top: -15px;
+}
+
+.firkant2 {
+position: absolute;
+ left: 280px;
+ top: 190px;
+ width: 170px;
+ height: 270px; 
+ background-color: white; 
+ border: 4px solid black;
+
+}
+
+.firkant2setning1 {
+font-family: times new roman, times, serif ; 
+	font-size: 24px;
+	position: absolute; 
+	left: 20px; 
+	bottom: 210px;
+	
+}
+
+.firkant2setning2 {
+font-family: times new roman, times, serif ; 
+	font-size: 24px;
+	position: absolute; 
+	left: 55px; 
+	bottom: 185px;
+}
+
+.firkant2setning3 {
+font-family: times new roman, times, serif ; 
+	font-size: 21px;
+	position: absolute; 
+	left: 47px; 
+	bottom: 140px;
+}
+
+.firkant2setning4 {
+font-family: times new roman, times, serif ; 
+	font-size: 16px;
+	position: absolute; 
+	left: 0px; 
+	bottom: 30px;
+}
+
+.hr2 {
+	margin-top: -15px;
+}
+
+.firkant3 {
+position: absolute;
+ left: 480px; 
+ top: 190px;
+ width: 170px;
+ height: 270px; 
+ background-color: white; 
+ border: 4px solid black;
+
+}
+
+.firkant3setning1 {
+font-family: times new roman, times, serif; 
+	font-size: 24px;
+	position: absolute; 
+	left: 30px; 
+	top: -16px; 
+}	
+
+.firkant3setning2 {
+font-family: times new roman, times, serif ; 
+	font-size: 24px;
+	position: absolute; 
+	left: 55px; 
+	top: 10px;
+}
+
+.firkant3setning3 {
+font-family: times new roman, times, serif ; 
+	font-size: 21px;
+	position: absolute; 
+	left: -5px; 
+	top: 54px;
+}
+
+.firkant3setning4desktop {
+font-family: times new roman, times, serif ; 
+	font-size: 16px;
+	position: absolute; 
+	left: -50px; 
+	bottom: 93px;
+	
+}
+
+.firkant3setning44desktop {
+font-family: times new roman, times, serif ; 
+	font-size: 16px;
+	position: absolute; 
+	left: -50px; 
+	bottom: 40px;
+
+}
+
+
+
+
+
+.firkant3setning4 {
+	display: none;
+}
+.tilbyr {
+	font-family: times new roman, times, serif ; 
+	font-size: 16px;
+	position: absolute; 
+	left: 41px; 
+	bottom: 93px;
+}
+
+.semester {
+font-family: times new roman, times, serif ; 
+	font-size: 16px;
+	position: absolute; 
+	left: -26px; 
+	bottom: 40px;
+}
+
+.hr3 {
+	margin-top: -25px;
+	margin-left: -50px;
+	width: 170px;
+}
+
+.firkant4 {
+	position: absolute;
+	left: 343px;
+	top: -13.5px; 
+	width: 170px; 
+	height: 270px;
+	background-color: white;
+	border: 4px solid black
+}
+
+.firkant4setning1 {
+font-family: times new roman, times, serif; 
+	font-size: 24px;
+	position: absolute; 
+	left: 45px; 
+	top: -16px; 
+}
+
+.firkant4setning2 {
+font-family: times new roman, times, serif ; 
+	font-size: 24px;
+	position: absolute; 
+	left: 7px; 
+	top: 5px;	
+}
+
+.firkant4setning3 {
+font-family: times new roman, times, serif ; 
+	font-size: 21px;
+	position: absolute; 
+	left: 40px; 
+	top: 63px;	
+}
+
+.firkant4setning4 {
+	font-family: times new roman, times, serif ; 
+	font-size: 16px;
+	position: absolute; 
+	left: 0px; 
+	top: 130px;
+}
+
+.hr4 {
+margin-top: -75px;
+}
+
+
+.firkant5 {
+	position: absolute;
+	left: 143px; 
+	bottom: -188px; 
+	width: 170px; 
+	height: 270px; 
+	border: 4px solid black; 
+	background-color: white;
+}
+
+
+
+.firkant5setning1 {
+	font-family: times new roman, times, serif; 
+	font-size: 24px;
+	position: absolute; 
+	left: 42px; 
+	top: -16px; 
+}	
+
+
+.firkant5setning2 {
+	font-family: times new roman, times, serif; 
+	font-size: 24px;
+	position: absolute; 
+	left: 42px; 
+	top: 10px;
+}
+
+.firkant5setning3 {
+font-family: times new roman, times, serif; 
+	font-size: 21px;
+	position: absolute; 
+	left: 42px; 
+	top: 63px;
+}
+
+.firkant5setning4 {
+	font-family: times new roman, times, serif; 
+	font-size: 16px;
+	position: absolute; 
+	left: 0px; 
+	top: 132px;
+}
+
+.hr5{
+margin-top: 105px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lokaletsleietakeredesktop {
+	font-familiy: times new roman, times, serif; 
+	font-size: 30px;
+	position: absolute; 
+	bottom: 324px;
+	left: 455px;
+}
+
+
+.bilde1desktop {
+	position: absolute;
+	left: 660px; 
+	top: 250px;
+
+	
+}
+
+.bilde2desktop {
+	position: absolute;
+	left: 435px;
+	top: 250px;
+	
+}
+
+.bilde3desktop {
+position: absolute; 
+left: 210px; 
+top: 250px;
+}
+
+.bilde4desktop {
+position: absolute;
+ left: 885px; 
+ top: 250px;
+}
+
+.bilde1mobil {
+	display: none;
+}
+
+.bilde2mobil {
+display: none;	
+}
+
+.bilde3mobil {
+display: none;	
+}
+
+.bilde4mobil {
+display: none;
+}
+
+
+
+
+
+
+
+
+
+
+.navnmobil {
+display: none;
+}
+
+.form1mobil {
+display: none;
+}
+
+.epostmobil {
+display: none;
+}
+
+.form2mobil {
+display: none;
+}
+
+.meldingmobil {
+display: none;
+}
+
+.textareamobil {
+display: none;
+}
+
+.buttonmobil {
+display: none;
+}
+
+.kontakt1mobil {
+display: none;
+}
+
+.informasjonmobil {
+display: none;
+}
+
+.kontakt2mobil {
+display: none;
+}
+
+.telefon1mobil {
+display: none; 
+}
+
+.telefon11mobil {
+display: none; 
+}
+
+.USNCoworkingSpacegmailcommobil {
+display: none;
+}
+
+.eposttmobil {
+display: none;
+}
+
+.kontakt5mobil {
+display: none;
+}
+
+.telefonadminmobil1 {
+	display: none;
+}
+
+.telefonadminmobil2 {
+	display: none;
+}
+
+.kontakt7mobil {
+display: none;
+}
+
+.kontakt77mobil {
+display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.bookingtittel1mobil {
+display: none;
+}
+
+.bookingtittel2mobil {
+display: none;
+}
+
+ .form1bookingmobil{
+display: none;
+}
+
+.velgrommobil1 {
+display: none;
+}
+
+ .velgrommobil2{
+display: none;
+}
+
+ .select1mobil{
+display: none;
+}
+
+
+.startdatomobil1 {
+display: none;
+}
+
+.startdatomobil2 {
+display: none;
+}
+
+.datovalgmobil{
+display: none;
+}
+
+.starttidmobil1{
+display: none;
+}
+
+.starttidmobil2{
+display: none;
+}
+
+.tidsvalgmobil{
+display: none;
+}
+
+.sluttdatomobil1{
+display: none;
+}
+
+.sluttdatomobil2{
+display: none;
+}
+
+.sluttdatomobil{
+display: none;
+}
+
+.slutttidmobil1{
+display: none;
+}
+
+.slutttidmobil2{
+display: none;
+}
+
+.slutttidmobil{
+display: none;
+}
+
+.navnmovil{
+display: none;
+}
+
+.bookingansvarligmobil{
+display: none;
+}
+
+.telefonmobil{
+display: none;
+}
+
+.bookingtelefonmobil{
+display: none;
+}
+
+.kartmobil{
+display: none;
+}
+
+.knappbookingmobil{
+display: none;
+}
+
+.bookingtittelmobil1{
+display: none;
+}
+
+.bookingtittelmobil2 {
+display: none;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.openworkspacemobil{
+display: none;
+}
+
+.kontorlandskapmobil {
+display: none;
+}
+
+.privateofficemobil {
+display: none;
+}
+
+.privatkontormobil {
+display: none;
+}
+
+.loungemobil {
+display: none;
+}
+
+.kontorloungemobil {
+display: none;
+}
+
+.kitchenmobil {
+display: none;
+}
+
+.kjøkkenmobil {
+display: none;
+}
+
+.scanmobil{
+display: none;	
+}
+
+.scanogprintdmobil {
+display: none;
+}
+
+.gameroommobil{
+display: none;
+}
+
+.gameroom2mobil {
+display: none;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
