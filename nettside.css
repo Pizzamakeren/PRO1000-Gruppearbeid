@@ -679,7 +679,19 @@ display: none;
 
 
 
+.informasjondesktop {
+	display: none;
+}
+.kontakt3desktop{
+	display: none;
+}
+	.kontakt33desktop {
+        display: none;
+	}
 
+	.kontakt77desktop {
+        display: none;
+	}
 
 .form1desktop {
 	display: none;
