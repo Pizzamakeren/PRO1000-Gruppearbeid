@@ -313,7 +313,7 @@ left: 133px;
 
 
 
-.medlemtekst {
+.medlemtekstmobil {
 font-family: times new roman, times, serif; 
 font-size: 25px; 
 position: absolute;
@@ -1397,7 +1397,7 @@ left: 575px;
 font-family: times new roman, times, serif; 
 font-size: 25px; 
 position: absolute;
- bottom: 320px;
+ bottom: 370px;
  left: 420px;
 }
 
@@ -1406,7 +1406,7 @@ position: absolute;
 
 .firkant1 {
 position: absolute; 
-left: 80px; 
+left: 120px; 
 top: 190px; 
 width: 170px; 
 height: 270px; 
@@ -1453,7 +1453,7 @@ margin-top: -15px;
 
 .firkant2 {
 position: absolute;
- left: 280px;
+ left: 320px;
  top: 190px;
  width: 170px;
  height: 270px; 
@@ -1501,7 +1501,7 @@ font-family: times new roman, times, serif ;
 
 .firkant3 {
 position: absolute;
- left: 480px; 
+ left: 520px; 
  top: 190px;
  width: 170px;
  height: 270px; 
@@ -1583,7 +1583,7 @@ font-family: times new roman, times, serif ;
 
 .firkant4 {
 	position: absolute;
-	left: 343px;
+	left: 383px;
 	top: -13.5px; 
 	width: 170px; 
 	height: 270px;
@@ -1630,7 +1630,7 @@ margin-top: -75px;
 
 .firkant5 {
 	position: absolute;
-	left: 143px; 
+	left: 183px; 
 	bottom: -188px; 
 	width: 170px; 
 	height: 270px; 
